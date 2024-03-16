@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="cafr" />
+        <module name="auth" />
+        <module name="reda" />
+        <module name="cafm" />
+        <module name="semt" />
+        <module name="secl" />
+        <module name="caaa" />
+        <module name="head" />
+        <module name="tsmt" />
+        <module name="sese" />
+        <module name="admi" />
+        <module name="tsin" />
+        <module name="casr" />
+        <module name="casp" />
+        <module name="pacs" />
+        <module name="colr" />
+        <module name="fxtr" />
+        <module name="pain" />
+        <module name="acmt" />
+        <module name="caam" />
+        <module name="setr" />
+        <module name="camt" />
+        <module name="cain" />
+        <module name="caad" />
+        <module name="remt" />
+        <module name="canm" />
+        <module name="catp" />
+        <module name="cafc" />
+        <module name="tsrv" />
+        <module name="seev" />
+        <module name="catm" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="17">
+      <module name="starter" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
